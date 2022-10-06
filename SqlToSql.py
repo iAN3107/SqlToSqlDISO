@@ -17,3 +17,5 @@ if __name__ == '__main__':
     exportRecomendador()
     exportRoteiro()
     exportUsuarios()
+
+    print('API CONCLUIDA, LOG GERADO EM LOGS')
